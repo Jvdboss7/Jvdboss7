@@ -13,5 +13,4 @@ Skills: Python / Machine Learning / Deep Learning  / NLP / Feature Engineering
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Jvdboss7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jaydeep-d-ba1b75a6//)  
 
-![Jaydeep's github stats](https://github-readme-stats.vercel.app/api?username=Jvdboss7&show_icons=true&theme=radical)
 
