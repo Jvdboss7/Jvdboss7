@@ -4,8 +4,8 @@ My key skills in data science projects include EDA, feature Engineering, data cl
 
 Skills: Python / Machine Learning / Deep Learning  / NLP / Feature Engineering 
 
-- 🔭 I’m currently working on Deep Learning Projects  
-- 🌱 I’m currently learning GAN,BERT and Transformers
+- 🔭 I’m currently working on Time Series   
+- 🌱 I’m currently learning Blockchain 
 - 👯 I’m looking to collaborate on Kaggle competitions 
 - 📫 How to reach me: Linkedin 
 
