@@ -23,7 +23,6 @@ Skills: Python / Machine Learning / Deep Learning  / NLP / Feature Engineering
 <br>
 
 <hr>
-
 [linkedin]: https://www.linkedin.com/in/jaydeepdixit/
 [twitter]: https://www.twitter.com/Jvdboss7
 [Instagram]: https://www.instagram.com/jvdboss7/
