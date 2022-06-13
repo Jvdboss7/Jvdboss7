@@ -4,7 +4,7 @@ My key skills in data science projects include EDA, feature Engineering, data cl
 
 Skills: Python / Machine Learning / Deep Learning  / NLP / Feature Engineering 
 
-- 🔭 I’m currently working on Deep Learning
+- 🔭 I’m currently working in Deep Learning
 - 🌱 I’m currently exploring Computer Vision
 
 <h3 align="left">Languages and Tools:</h3>
