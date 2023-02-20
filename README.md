@@ -1,4 +1,10 @@
-### My name is Jaydeep Dixit
+### This is Jaydeep Dixit
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jvdboss7&label=Profile%20views&color=0e75b6&style=flat" alt="Jvdboss7" /> </p>
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20iNeuron'/>
+</div>
+
 #### I am a Data Scientist with skills in Machine Learning, Deep Learning, and NLP. I have worked on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP.
 My key skills in data science projects include EDA, feature Engineering, data cleaning.
 
