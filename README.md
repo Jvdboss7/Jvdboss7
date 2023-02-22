@@ -23,7 +23,7 @@ Skills: Python / Machine Learning / Deep Learning  / NLP / Feature Engineering
     <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Jvdboss7&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jvdboss7&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
 </p>
-
+  
 ## **STREAK STATS**
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=Jvdboss7&theme=gotham&hide_border=true'>
